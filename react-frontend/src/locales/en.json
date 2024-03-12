@@ -1,0 +1,12 @@
+{
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Login",
+    "english": "English",
+    "chinese": "Chinese",
+    "welcome": "Welcome",
+    "role": "Role",
+    "restricted": "Restricted",
+    "restricted page title": "Welcome to the restricted page"
+}
